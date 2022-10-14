@@ -2,7 +2,7 @@
 
 NuXtractor was a tool created for the purpose of extracting textures and models from Lego games.  The only officially supported game was Lego Star Wars: The Video Game (PC and Xbox).
 
-This repository is a forked mirror of the original (archived) repository for NuXtractor, with the single purpose of providing a download for pre-built binaries of the `more_platforms` branch ([available here](https://github.com/SirYodaJedi/NuXtractor/releases/tag/more-platforms_final_official)), so that textures from PS2 GHGs can be extracted and converted with ease (until StudSmelter comes around, if that ever happens; Lego modding developments take place in ValveTime). In the spirit of archivism, it remains unaltered from its original form, with the exception of that release and this paragraph.
+This repository is a forked mirror of the original (archived) repository for NuXtractor, with the single purpose of providing a download for pre-built binaries of the `more_platforms` branch ([available here](https://github.com/SirYodaJedi/NuXtractor/releases/tag/more-platforms_final_official)), so that textures from PS2 GSCs can be extracted and converted with ease (until StudSmelter comes around, if that ever happens; Lego modding developments take place in ValveTime). In the spirit of archivism, it remains unaltered from its original form, with the exception of that release and this paragraph.
 
 ### Harder, Better, Faster, Stronger
 
